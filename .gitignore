@@ -25,3 +25,4 @@ $RECYCLE.BIN/
 
 # Sensitive Data
 .env.local
+.env.production.local
